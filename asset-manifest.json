@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b43fc60d.css",
+    "main.js": "/static/js/main.6b2c9164.js",
+    "static/js/108.e35f7463.chunk.js": "/static/js/108.e35f7463.chunk.js",
+    "static/js/27.b50a7357.chunk.js": "/static/js/27.b50a7357.chunk.js",
+    "static/media/traveladvisor.png": "/static/media/traveladvisor.41c9cfaf4772eea6aed0.png",
+    "static/media/flickez.png": "/static/media/flickez.929ab743de7a97b8ce85.png",
+    "static/media/expo.png": "/static/media/expo.5964c04629e9e9712f8e.png",
+    "static/media/mediumClone.png": "/static/media/mediumClone.ff2a98821361b65eec5d.png",
+    "static/media/amazonClone.png": "/static/media/amazonClone.56ec4d541270a5edd6f4.png",
+    "static/media/weatherapp.png": "/static/media/weatherapp.1103462d5008602736fe.png",
+    "static/media/HolidayFriend.png": "/static/media/HolidayFriend.e9bb12738dcc3185b01f.png",
+    "static/media/varmi.png": "/static/media/varmi.a7800f646969e80744d3.png",
+    "static/media/SwiftRadio.png": "/static/media/SwiftRadio.6a8f97ac81d878f3ad41.png",
+    "static/media/cryptoapp.png": "/static/media/cryptoapp.ee1809f3a936a4d4aecb.png",
+    "static/media/spotifyClone.png": "/static/media/spotifyClone.79cd9fcac52a98251c49.png",
+    "static/media/Yigit_OZDAMAR_CV.pdf": "/static/media/Yigit_OZDAMAR_CV.e6f5bd950706c644e81d.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/blogwebsite.png": "/static/media/blogwebsite.459f0781ca388b2d5d3a.png",
+    "static/media/todolistimage.png": "/static/media/todolistimage.0195634ce35f751366d0.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.b43fc60d.css",
+    "static/js/main.6b2c9164.js"
+  ]
+}
